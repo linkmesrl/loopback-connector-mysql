@@ -1,3 +1,7 @@
+## This is an experimental fork
+
+Its goal is to support sub millisecond precision dates and prepared statements
+
 ## loopback-connector-mysql
 
 `loopback-connector-mysql` is the MySQL connector module for [loopback-datasource-juggler](https://github.com/strongloop/loopback-datasource-juggler/).
